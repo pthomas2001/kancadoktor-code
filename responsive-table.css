@@ -6,9 +6,9 @@
 
 .table__cell.table-cell {
   height:           30px;
-  background:       #EEEEEE !important;
+  background:       #EEEEEE;
   padding:          5px;
-  vertical-align:   middle !important;
+  vertical-align:   middle;
 }
 
 .table__cell--highlighted {
