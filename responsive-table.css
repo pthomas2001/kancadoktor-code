@@ -6,7 +6,7 @@
 
 [class="table__cell"] {
   height:           30px;
-  background:       lightgrey;
+  background:       lightgrey !important;
   padding:          5px;
   vertical-align:   middle !important;
 }
