@@ -6,7 +6,7 @@
 
 .table__cell {
   height:           30px;
-  background:       lightgrey !important;
+  background:       rgba(211,211,211,.3) !important;
   padding:          5px;
   vertical-align:   middle !important;
 }
@@ -16,7 +16,6 @@
   color:            red;
 }
 
-.table__cell--underlined-bold {
+.table__cell--bold {
   font-weight:      bold;
-  text-decoration:  underline;
 }
