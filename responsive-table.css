@@ -1,1 +1,18 @@
-.table { font-size: 50px }
+* { box-sizing: border-box }
+
+.table { font-family: 'Calibri', sans-serif }
+
+@media (min-width: 1024px) {
+  .table { font-size: 2rem }
+}
+
+.table__cell {
+  height:       30px;
+  background: #EEEEEE;
+  padding:      5px;
+}
+
+.table__cell--highlighted {
+  font-weight:  bold;
+  color:      red;
+}
