@@ -14,9 +14,17 @@
 .table__cell--highlighted {
   font-weight:      bold;
   color:            red;
+  height:           30px;
+  background:       lightgrey !important;
+  padding:          5px;
+  vertical-align:   middle !important;
 }
 
 .table__cell--underlined-bold {
   font-weight:      bold;
-  text-decoration:  underline
+  text-decoration:  underline;
+  height:           30px;
+  background:       lightgrey !important;
+  padding:          5px;
+  vertical-align:   middle !important;
 }
