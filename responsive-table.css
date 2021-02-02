@@ -8,7 +8,7 @@
   height:           30px;
   background:       lightgrey;
   padding:          5px;
-  vertical-align:   middle;
+  vertical-align:   middle !important;
 }
 
 .table__cell--highlighted {
