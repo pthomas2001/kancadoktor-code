@@ -6,12 +6,12 @@
 
 .table__cell.table__cell {
   height:         30px;
-  background:   #EEEEEE;
+  background:     #EEEEEE;
   padding:        5px;
-  vertical-align: middle
+  vertical-align: middle !important;
 }
 
 .table__cell--highlighted {
   font-weight:    bold;
-  color:        red;
+  color:          red;
 }
