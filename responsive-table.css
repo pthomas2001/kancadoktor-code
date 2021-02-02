@@ -1,9 +1,7 @@
-* { box-sizing: border-box }
-
 .table { font-family: 'Calibri', sans-serif }
 
 @media (min-width: 1024px) {
-  .table { font-size: 2rem }
+  .table__cell { font-size: 2rem }
 }
 
 .table__cell {
