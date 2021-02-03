@@ -19,3 +19,11 @@
 .table__cell--bold {
   font-weight:      bold;
 }
+
+.table__link--highlighted,
+.table__link--highlighted:hover,
+.table__link--highlighted:active,
+.table__link--highlighted:visited {
+  color:           red 
+}
+
