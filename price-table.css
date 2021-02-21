@@ -1,0 +1,24 @@
+* { box-sizing: border-box }
+
+th, td {
+  vertical-align: middle !important;
+  text-align: center !important;
+  background: white !important;
+}
+
+th {
+    background:   #B0B3B2 !important;
+}
+
+.table__row--highlighted {
+  font-weight:    bold
+}
+
+.table__cell--highlighted {
+  background:   #D4D4D4 !important;
+  font-weight:    bold
+}
+
+.table__cell--no-centered {
+  text-align: left !important
+}
